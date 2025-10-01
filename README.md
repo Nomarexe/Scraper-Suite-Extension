@@ -20,7 +20,7 @@ Queste estensioni sono ora attive e disponibili per il download direttamente dal
 - **[Web Link Scraper](https://microsoftedge.microsoft.com/addons/detail/web-link-scraper/kcehmicnhjlphlpgbikkoijkhifmjacc)** - Estrai e copia tutti i link dalle pagine web
 
 Per sviluppatori e partner, accedi alla dashboard per sviluppatori di Microsoft Edge:
-**[Dashboard del partner](https://partner.microsoft.com/en-us/dashboard/microsoftedge/85bd2d2e-8873-4e8a-a73a-d48536715f18/packages/dashboard)**
+**[Dashboard del partner](https://partner.microsoft.com/en-us/dashboard/microsoftedge/overview)**
 
 ## 🎨 Filosofia del design
 
