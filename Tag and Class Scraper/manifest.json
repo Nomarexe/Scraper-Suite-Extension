@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Tag and Class Scraper",
+  "version": "1.0",
+  "description": "Estrai dati inserendo solo il nome della classe CSS",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}

@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Web Link Scraper",
+  "version": "1.0",
+  "description": "Estrai e copia tutti i link dalla pagina web",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab", "clipboardWrite"],
+  "host_permissions": ["<all_urls>"]
+}
